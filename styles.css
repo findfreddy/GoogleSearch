@@ -1,0 +1,18 @@
+.Search {
+  color: blue;
+}
+
+button.search-submit {
+  column-fill: red;
+}
+.para1 {
+  color: red;
+}
+
+#primary {
+  colour: orange;
+}
+
+p {
+  width: 50%;
+}
