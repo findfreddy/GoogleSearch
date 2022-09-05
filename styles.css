@@ -2,6 +2,12 @@
   color: blue;
 }
 
+.para1 {
+  border-width: 1px;
+  border-style: solid;
+  border-color: red;
+}
+
 button.search-submit {
   column-fill: red;
 }
@@ -16,3 +22,8 @@ button.search-submit {
 p {
   width: 50%;
 }
+
+/* use this to float objects in the middle of set enclosures  */
+/* div {
+  margin: 0 auto;
+} */
